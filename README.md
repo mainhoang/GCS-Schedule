@@ -25,3 +25,4 @@ In this assignment, you'll create a train schedule application that incorporates
 * JavaScript
 * jQuery
 * Firebase
+* Moment.js
